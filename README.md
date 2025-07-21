@@ -4,8 +4,8 @@ A simple **Playnite Generic Plugin** that checks for game updates by comparing t
 
 ---
 ## Important!
-- Games must be in format: gamename [version]
-- Games need to have a valid f95 threadlink, named 'f95'
+- Games must be in format: ```gamename [version]```
+- Games need to have a valid f95 threadlink, named ```f95```
 ---
 
 ## ✅ Features
