@@ -3,9 +3,12 @@
 A simple **Playnite Generic Plugin** that checks for game updates by comparing the local version (from the game name) against the latest version available on linked **F95** pages. Notifications are shown in Playnite if updates are found.
 
 ---
+
 ## Important!
 - Games must be in format: ```gamename [version]```
 - Games need to have a valid f95 threadlink, named ```f95```
+- Be sure to manually update the version in gamename after you downloaded/installed a new game.
+  
 ---
 
 ## ✅ Features
